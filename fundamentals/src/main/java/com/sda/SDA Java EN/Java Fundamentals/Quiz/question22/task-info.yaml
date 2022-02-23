@@ -1,0 +1,30 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Primitive.
+  is_correct: true
+- text: Enums.
+  is_correct: false
+- text: Collections.
+  is_correct: false
+- text: Objects.
+  is_correct: false
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+        public static void main(String[] args) {
+
+        }
+    }
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Wed, 15 Dec 2021 18:06:42 UTC
+record: -1
+selected_options:
+- 0

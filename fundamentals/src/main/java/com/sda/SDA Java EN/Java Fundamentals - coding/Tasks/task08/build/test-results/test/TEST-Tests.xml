@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-01-11T15:44:07" hostname="DESKTOP-HSNCFUM" time="0.012">
+  <properties/>
+  <testcase name="testSolution" classname="Tests" time="0.008"/>
+  <testcase name="testSolution2" classname="Tests" time="0.001"/>
+  <testcase name="testSolution3" classname="Tests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
