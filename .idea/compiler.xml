@@ -10,6 +10,7 @@
         <module name="java-advanced" />
         <module name="softwareTesting" />
         <module name="coding" />
+        <module name="design-patterns" />
       </profile>
     </annotationProcessing>
   </component>

@@ -13,6 +13,7 @@
         <module>coding</module>
         <module>java-advanced</module>
         <module>softwareTesting</module>
+        <module>design-patterns</module>
     </modules>
 
     <properties>
